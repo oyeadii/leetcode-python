@@ -10,3 +10,5 @@ class Solution:
                     break
             lst.append(i+nums.count(target)-1)
             return lst
+
+        
